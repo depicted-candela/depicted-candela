@@ -1,7 +1,3 @@
-# My top languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depicted-candela&layout=compact)
-
 # My energy
 
 - 👋 Is a pleasure to say to you hello, my name is Nicolás Córdoba {@depicted-candela}. I am Geodesist and Spatial Scientist (Universidad Distrital Francisco José de Caldas), and Mathematician and Computer Scientist.
