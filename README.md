@@ -1,7 +1,7 @@
-# My energy
+# Energy
 
 - 👋 Nicolás Córdoba {@depicted-candela}. Entrepreneur, Geodesist, Computer Scientist, Spatial Scientist (UDFJC), and Mathematician.
-- 👀 Strong interest in Business transformation, Computer Science for human creativity boosts, AI/ML for creativity and memory enhancement; exploring graphs for systems and Geodesy. Fascinated by interoperable, concurrent, and parallel systems.
+- 👀 Strong interest in Business transformation, Computer Science for human creativity and productivity boosts, AI/ML for creativity and memory enhancement; exploring graphs for systems and Geodesy. Fascinated by interoperable, concurrent, and parallel systems.
 - Strong experience with Business Strategies.
 - Strong experience with Query, Programming, and Markdown languages.
 - 🌱 Studying Mathematics (Graph systems, Machine Learning, Space Engineering, Computer Science, and Physics) for big systems. 
